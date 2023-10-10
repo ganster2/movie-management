@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3dc7b4ac-4a55-43c7-8296-4906d5caa591" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/mlw/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlw/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mlw/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlw/urls.py" afterDir="false" />
-    </list>
+    <list default="true" id="3dc7b4ac-4a55-43c7-8296-4906d5caa591" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -195,6 +192,7 @@
       <workItem from="1696742913391" duration="4588000" />
       <workItem from="1696912718723" duration="284000" />
       <workItem from="1696913042420" duration="11000" />
+      <workItem from="1696914367678" duration="292000" />
     </task>
     <servers />
   </component>
@@ -217,7 +215,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/mlw/settings.py</url>
-          <line>141</line>
+          <line>152</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
